@@ -18,6 +18,17 @@
   ],
   "author": "Your Name",
   "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AryanPROOO/fashion-ai-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AryanPROOO/fashion-ai-backend/issues"
+  },
+  "homepage": "https://github.com/AryanPROOO/fashion-ai-backend#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.40.0",
